@@ -31,3 +31,5 @@ service ambari-server start (on all nodes)
 
 service ambari-agent start ( on all nodes)
 chkconfig ambari-agent on (do this on all nodes)
+
+
